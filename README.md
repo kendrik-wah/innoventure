@@ -9,12 +9,5 @@ Each item has the following criteria:
   2) Name
   3) Batch Number
   4) Location
-  5) Input Date
-  6) Expiry Date
-  
-This software must be able to:
-------------------------------
-  a) Upload information of contents via an .xls file.
-  b) Sort the items for each entry.
-  c) Collapse the items for each entry.
-  d) 
+  5) Input Time Details
+  6) Expiry Time Details
